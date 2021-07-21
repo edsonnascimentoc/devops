@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" />
+    <PackageReference Include="Microsoft.DotNet.InternalAbstractions" Version="1.0.500-preview2-1-003177" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0-preview.6.21352.12" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0-release-20210626-04" />
     <PackageReference Include="System.ComponentModel.TypeConverter" Version="4.3.0" />
